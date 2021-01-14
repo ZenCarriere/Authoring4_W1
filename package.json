@@ -5,7 +5,7 @@
   "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C app.js",
   "scripts": {
     "test": "echo \"hello from node!\" && exit 1",
-    "start": "nodemon app"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
