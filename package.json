@@ -5,6 +5,7 @@
   "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C app.js",
   "scripts": {
     "test": "echo \"hello from node!\" && exit 1",
+    "startdev": "nodemon app",
     "start": "node app"
   },
   "repository": {
@@ -21,6 +22,7 @@
   "author": "Zen",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "gulp": "^4.0.2",
     "mysql": "^2.18.1",
     "underscore": "^1.12.0"
